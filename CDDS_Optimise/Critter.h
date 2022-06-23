@@ -1,6 +1,4 @@
 #pragma once
-
-#include "ResourceManager.h"
 #include "raylib.h"
 
 class Critter
