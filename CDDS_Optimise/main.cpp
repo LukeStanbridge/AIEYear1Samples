@@ -140,7 +140,8 @@ int main(int argc, char* argv[])
         // check for critter-on-critter collisions
         for (int i = 0; i < CRITTER_COUNT; i++)
         {            
-            for (int j = 0; j < CRITTER_COUNT; j++){
+            for (int j = 0; j < CRITTER_COUNT; j++)
+            {
                 if (i == j || critters[i].IsDirty()) // note: the other critter (j) could be dirty - that's OK
                     continue;
                 // check every critter against every other critter
