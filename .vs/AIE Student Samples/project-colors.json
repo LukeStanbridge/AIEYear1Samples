@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d2738e1-a166-40f6-936e-278c0ac90c7b": {
+      "ProjectGuid": "5d2738e1-a166-40f6-936e-278c0ac90c7b",
+      "DisplayName": "CDDS_Optimise",
+      "ColorIndex": 0
+    },
+    "be6734cb-fa50-4a17-9283-95cf7f16a3b0": {
+      "ProjectGuid": "be6734cb-fa50-4a17-9283-95cf7f16a3b0",
+      "DisplayName": "RaylibStarterCS",
+      "ColorIndex": 1
+    },
+    "f660ff67-d70e-4ae0-9080-d922243e9b6e": {
+      "ProjectGuid": "f660ff67-d70e-4ae0-9080-d922243e9b6e",
+      "DisplayName": "Raylib",
+      "ColorIndex": 2
+    },
+    "1532490a-1ec5-4851-929d-8a51d4a4c6b1": {
+      "ProjectGuid": "1532490a-1ec5-4851-929d-8a51d4a4c6b1",
+      "DisplayName": "CDDS_BinaryTree",
+      "ColorIndex": 3
+    },
+    "5410fc57-321e-43d5-837c-7a47033041b8": {
+      "ProjectGuid": "5410fc57-321e-43d5-837c-7a47033041b8",
+      "DisplayName": "RayGUI_Widgets",
+      "ColorIndex": 4
+    },
+    "66f97e22-5e02-4257-b75c-da71b7a17bff": {
+      "ProjectGuid": "66f97e22-5e02-4257-b75c-da71b7a17bff",
+      "DisplayName": "RaylibStarterCPP",
+      "ColorIndex": 5
+    },
+    "7544d2ea-300c-4aeb-aa7f-438762ae001f": {
+      "ProjectGuid": "7544d2ea-300c-4aeb-aa7f-438762ae001f",
+      "DisplayName": "IntroCPP_BinaryFileIO_NPCData",
+      "ColorIndex": 6
+    },
+    "591693ec-75b0-46c6-aeba-bca20d6ecf66": {
+      "ProjectGuid": "591693ec-75b0-46c6-aeba-bca20d6ecf66",
+      "DisplayName": "CDDS_IPC_EntityDisplay",
+      "ColorIndex": 7
+    },
+    "a443de1a-0cb4-4d25-901e-b4078f366528": {
+      "ProjectGuid": "a443de1a-0cb4-4d25-901e-b4078f366528",
+      "DisplayName": "CDDS_IPC_EntityEditor",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
