@@ -30,8 +30,5 @@ protected:
 	enum { ENTITY_COUNT = 10 };
 	Entity m_entities[ENTITY_COUNT];
 
-	void SetFileMapping();
-	void FileSize();
-	HANDLE handle;
-	HANDLE arraySize;
+	HANDLE h;
 };

@@ -11,7 +11,7 @@ struct Entity {
 	float size = 1;
 };
 
-class EntityDisplayApp {
+class EntityDisplayApp  {
 public:
 	EntityDisplayApp(int screenWidth = 800, int screenHeight = 450);
 	~EntityDisplayApp();
@@ -28,8 +28,4 @@ protected:
 
 	// an array of an unknown number of entities
 	std::vector<Entity> m_entities;
-	void AccessFileMapping() { handle = OpenFileMapping(FILE_MAP_ALL_ACCESS, FALSE, L"MySharedMemory"); }
-	void AccessFileSize() { arraySize = OpenFileMapping(FILE_MAP_ALL_ACCESS, FALSE, L"MySharedMemory"); }
-	HANDLE handle;
-	HANDLE arraySize;
 };
